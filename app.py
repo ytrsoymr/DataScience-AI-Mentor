@@ -23,16 +23,7 @@ st.markdown("""
    - The chatbot **remembers past interactions** within the same session for **context-aware discussions**.
 4. **Chat History**
    - You can review your past questions and answers in the chat window.
-### **Who Can Use It?**
-- **Students & Beginners** → Learn the basics of data science interactively.
-- **Aspiring Data Scientists** → Get help with coding, algorithms, and real-world applications.
-- **Professionals & Researchers** → Ask about advanced techniques and best practices.
-- **Anyone Curious About Data Science** → Explore AI, Machine Learning, SQL, Python, and more!
-### **Why Use DataScience-AI-Mentor?**
-✅ **User-Friendly Interface** – Just start chatting!  
-✅ **Step-by-Step Explanations** – Learn in a structured way.  
-✅ **Memory for Better Conversations** – Get answers based on previous messages.  
-✅ **Saves Chat History** – Review past queries anytime.  
+  
 """)
 
 # Display chat history
