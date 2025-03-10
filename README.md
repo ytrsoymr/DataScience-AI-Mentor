@@ -34,7 +34,7 @@
    ```sh
    streamlit run app.py
 ##Access the App
-- You can access the live application here: DataScience-AI-Mentor
+- You can access the live application here: https://huggingface.co/spaces/ytrsoymr/DataScience-AI-Mentor
 
 ## Technologies Used
 - Streamlit → For building the web-based chat interface.
